@@ -19,4 +19,5 @@ Les commandes apprises sont:
 - git diff
 - git status
 
+Une phrase de test
 Autre phrase
