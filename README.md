@@ -20,4 +20,7 @@ Les commandes apprises sont:
 - git status
 
 Une phrase de test
+
 Autre phrase
+
+Travail réalisé sur la branche dev 
