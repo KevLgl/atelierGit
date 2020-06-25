@@ -16,3 +16,4 @@ Les commandes apprises sont:
 -git push
 -git pull
 -git merge 
+-git diff
