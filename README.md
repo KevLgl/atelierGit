@@ -17,3 +17,6 @@ Les commandes apprises sont:
 - git pull
 - git merge 
 - git diff
+- git status
+
+Autre phrase
